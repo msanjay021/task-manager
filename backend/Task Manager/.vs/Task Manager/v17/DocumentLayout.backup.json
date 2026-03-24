@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\wwwroot\\task-ui\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:wwwroot\\task-ui\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\wwwroot\\task-ui\\src\\components\\taskform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:wwwroot\\task-ui\\src\\components\\taskform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\wwwroot\\task-ui\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:wwwroot\\task-ui\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\wwwroot\\task-ui\\src\\components\\tasklist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:wwwroot\\task-ui\\src\\components\\tasklist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|d:\\ashu\\programming\\be\\dotnet\\webapi\\task manager\\migrations\\20260324113242_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2397EE-B9DB-4F3E-B711-DCADDD47EFCC}|Task Manager.csproj|solutionrelative:migrations\\20260324113242_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T13:57:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-24T13:43:17.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskForm.js",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\wwwroot\\task-ui\\src\\components\\TaskForm.js",
+              "RelativeDocumentMoniker": "wwwroot\\task-ui\\src\\components\\TaskForm.js",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\wwwroot\\task-ui\\src\\components\\TaskForm.js",
+              "RelativeToolTip": "wwwroot\\task-ui\\src\\components\\TaskForm.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-24T13:40:35.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskList.js",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\wwwroot\\task-ui\\src\\components\\TaskList.js",
+              "RelativeDocumentMoniker": "wwwroot\\task-ui\\src\\components\\TaskList.js",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\wwwroot\\task-ui\\src\\components\\TaskList.js",
+              "RelativeToolTip": "wwwroot\\task-ui\\src\\components\\TaskList.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-24T13:40:22.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api.js",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\wwwroot\\task-ui\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "wwwroot\\task-ui\\src\\services\\api.js",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\wwwroot\\task-ui\\src\\services\\api.js",
+              "RelativeToolTip": "wwwroot\\task-ui\\src\\services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-24T13:39:16.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.js",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\wwwroot\\task-ui\\src\\App.js",
+              "RelativeDocumentMoniker": "wwwroot\\task-ui\\src\\App.js",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\wwwroot\\task-ui\\src\\App.js",
+              "RelativeToolTip": "wwwroot\\task-ui\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-24T13:36:35.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260324113242_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Migrations\\20260324113242_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260324113242_InitialCreate.cs",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Migrations\\20260324113242_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260324113242_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:44:06.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T11:01:04.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:45:50.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:42:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:42:36.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Ashu\\programming\\BE\\dotnet\\WebAPI\\Task Manager\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:41:55.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

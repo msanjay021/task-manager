@@ -1,0 +1,159 @@
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.csproj.AssemblyReference.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.AssemblyInfoInputs.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.AssemblyInfo.cs
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.csproj.CoreCompileInputs.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.MvcApplicationPartsAssemblyInfo.cs
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.MvcApplicationPartsAssemblyInfo.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\appsettings.Development.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\appsettings.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Task Manager.staticwebassets.endpoints.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Task Manager.exe
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Task Manager.deps.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Task Manager.runtimeconfig.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Task Manager.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Task Manager.pdb
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Humanizer.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\scopedcss\bundle\Task Manager.styles.css
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\swae.build.ex.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Man.74AF0842.Up2Date
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\refint\Task Manager.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.pdb
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\Task Manager.genruntimeconfig.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\obj\Debug\net6.0\ref\Task Manager.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\Task Manager\bin\Debug\net6.0\Task Manager.staticwebassets.runtime.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\appsettings.Development.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\appsettings.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Task Manager.staticwebassets.endpoints.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Task Manager.exe
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Task Manager.deps.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Task Manager.runtimeconfig.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Task Manager.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Task Manager.pdb
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Humanizer.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.csproj.AssemblyReference.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.AssemblyInfoInputs.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.AssemblyInfo.cs
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.csproj.CoreCompileInputs.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.MvcApplicationPartsAssemblyInfo.cs
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.MvcApplicationPartsAssemblyInfo.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\scopedcss\bundle\Task Manager.styles.css
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\swae.build.ex.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Man.74AF0842.Up2Date
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\refint\Task Manager.dll
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.pdb
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\Task Manager.genruntimeconfig.cache
+D:\Ashu\programming\BE\dotnet\WebAPI\task-manager\backend\Task Manager\obj\Debug\net6.0\ref\Task Manager.dll
